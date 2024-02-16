@@ -5,3 +5,5 @@ Console.WriteLine("Calculatio example");
 Calc calc = new Calc();
 Console.WriteLine("Add Call");
 calc.Add(6, 12);
+Console.WriteLine("Multi Call");
+calc.Multi(2, 3);
